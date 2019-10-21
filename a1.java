@@ -1,2 +1,3 @@
-hszz
-
+public class HelloWorld {
+	String hello;
+}

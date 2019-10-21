@@ -1,3 +1,3 @@
 public class HelloWorld {
-	String hello;
+	String helloworld;
 }
